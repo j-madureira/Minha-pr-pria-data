@@ -1,0 +1,3 @@
+- Crie uma variável que tem o objeto new Date
+- Crie a própria data
+- Imprima a data no console.log()
